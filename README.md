@@ -1,6 +1,7 @@
 # Meteorologica
 
 ## A ultra-low-power, flexible Environment Monitioring Platform  
+![LoRaMini](https://user-images.githubusercontent.com/13017970/196663397-eb2792f0-6017-4476-99fd-4341d2e81e93.png)
 ### Hardware Desctiption:  
 - uC: STM32G071
 - LoRa Module: RFM95
